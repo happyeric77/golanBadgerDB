@@ -1,0 +1,5 @@
+*.vlog
+*.sst
+KEYREGISTRY
+MANIFEST
+go.sum
